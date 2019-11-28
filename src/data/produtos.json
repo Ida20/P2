@@ -1,0 +1,31 @@
+{
+    "produtos": [ 
+        {
+            "id": 1,
+            "titulo": "Steve Jobs",
+            "autor": "Walter Isaacson",
+            "descricao": "A biografia escrita por Walter Isaacson",
+            "taxa": "****",
+            "img" : "steve.jpg",
+            "valor": 150
+        },
+        {
+            "id": 2,
+            "titulo": "Elon Musk",
+            "autor": "Ashlee Vance",
+            "descricao": "A vida real de Tony Stark",
+            "taxa": "***",
+            "img" : "elon.jpg",
+            "valor": 200
+        },
+        {
+            "id": 3,
+            "titulo": "Walt Disney",
+            "autor": "Near Gabler",
+            "descricao": "O triunfo da imaginção americana",
+            "taxa": "*****",
+            "img" : "walt.jpg",
+            "valor": 320
+        }
+    ]
+}
